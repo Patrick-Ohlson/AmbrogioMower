@@ -20,7 +20,7 @@
 * Figured it was time to pack everything up, with the help of Claude
 
 ### Video  
-![PS5 controller custom Ambrogio L200 mower](https://www.youtube.com/watch?v=7V3uSLg4HgU)
+<a href="https://www.youtube.com/watch?v=7V3uSLg4HgU" target="_blank">PS5 Controller and Ambroigio L200</a>
 
 
 

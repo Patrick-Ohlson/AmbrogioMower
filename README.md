@@ -1,4 +1,4 @@
-# H8S 2144 code for the Ambroigio / STIGA AM2000/09 based mowers
+# H8S 2144 code for the Ambrogio / STIGA AM2000/09 based mowers
 #### (Code compiles for L200)
 
 ### Toolchain  
